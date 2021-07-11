@@ -1,0 +1,40 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Meteksan Defence Industry
+    url: "https://www.meteksan.com/en"
+    location: Ankara
+    # company overview
+    overview: Meteksan Savunma is a Turkish defense technology company, specializing in radar systems, perimeter surveillance systems, laser and electro-optic systems, communication systems, underwater acoustic systems and simulators.
+  positions:
+  - designation: Intern
+    start: June 2021
+    end: July 2021
+
+    responsibilities:
+    - Worked under the Acoustic and Optical Design Embedded Systems Department. 
+    - Using C++ and concepts of socket programming and threading, built a multiclient-server network infrastructure that can operate autonomously in any application.
+    - Started to learn Machine Learning (Computer Vision, in particular).
+
+- company:
+    name: Freelance
+    location: Nowhere
+    overview: Worked for an anonymous client who was in a need of specific bots that interacts with blockchains for different purposes.
+  positions:
+  - designation: Software Developer
+    start: Feb 2021
+    end: May 2021
+    responsibilities:
+    - Wrote an arbitrage bot for a project called YieldYak on the Avalanche blockchain network.
+    - Wrote a helper bot for buying tokens immediately after a pool is created. (Works for all UniswapV2 forks).
+    - Wrote a bot for distributing coins and tokens over many accounts on the Matic blockchain network.

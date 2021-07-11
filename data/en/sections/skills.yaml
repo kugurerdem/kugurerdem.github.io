@@ -1,0 +1,42 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+
+- name: Programming
+  summary: "Can confidently program in many different languages including nodeJS, Java, Python, C++/C and so on"
+  
+- name: Blockchain dApp Development
+  #logo: "/images/sections/skills/cloud.png"
+  summary: "Familiar with dApp tools such as web3js, nodejs, solidity and frameworks such as truffle."
+  
+- name: Machine Learning
+  #logo: "/images/sections/skills/go.png"
+  summary: "Familiar with fundamental concepts of the Machine Learning. Interacted with Python libraries such as PyTorch."
+
+- name: Git
+  #logo: "/images/sections/skills/go.png"
+  summary: "Familiar with version control systems such as Git and uses them frequently."
+  
+- name: SQL
+  #logo: "/images/sections/skills/go.png"
+  summary: "Knows the fundamentals of relational algebra, databases and the SQL syntax"
+  
+- name: RegExp
+  #logo: "/images/sections/skills/go.png"
+  summary: "Used RegExp while designing our own programming language \"Zetz\" "
+  
+- name: UML and Design Patterns
+  summary: "I am familiar with the concepts of OOP, use of different UML diagrams, design architectures and design patterns"
+
+- name: MIPS Assembly
+  summary: "Knows the fundamentals about MIPS Architecture, coded several programs with it"

@@ -1,0 +1,65 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: B.Sc. in Mathematics
+  icon: fa-graduation-cap
+  timeframe: 2018-2022
+  institution:
+    name: İhsan Doğramacı Bilkent Üniversitesi
+    url: "#"
+  grade: #(optional)
+    scale: CGPA
+    achieved: 2.93
+    outOf: 4
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: CS 101, Algorithms and Programming I (4 Credits)
+      achieved: 4
+      outOf: 4
+    - name: CS 102, Algorithms and Programming II (4 Credits)
+      achieved: 4
+      outOf: 4
+    - name: CS 115, Introduction to Programming in Python (4 Credits)
+      achieved: 4
+      outOf: 4
+    - name: CS 201, Fundamental Structures of Computer Science I (3 Credits)
+      achieved: 3.7
+      outOf: 4
+    - name: CS 201, Fundamental Structures of Computer Science I (3 Credits)
+      achieved: 3.7
+      outOf: 4
+    - name: CS 202, Fundamental Structures of Computer Science II (3 Credits)
+      achieved: 4
+      outOf: 4
+    - name: CS 223, Digital Design I (4 Credits)
+      achieved: 3
+      outOf: 4
+    - name: CS 315, Programming Languages (3 Credits)
+      achieved: 2.7
+      outOf: 4
+    - name: CS 319, Object-Oriented Software Engineering (4 Credits)
+      achieved: 2
+      outOf: 4
+    - name: MATH 420, Introduction to Cryptopgraphy (3 Credits)
+      achieved: 3
+      outOf: 4
+    - name: CS 224 Computer Organization (4 Credits)
+      achieved: 1.3
+      outOf: 4
+    - name: CS 353, Database Systems (3 Credits)
+      achieved: 1.3
+      outOf: 4
+    - name: CS 476, Automata Theory and Formal Languages(3 Credits)
+      achieved: 3.3
+      outOf: 4

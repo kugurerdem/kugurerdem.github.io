@@ -1,0 +1,43 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+
+- name: Machine Learning (Continuing)
+  timeline: "Jul 2021 - Continuing"
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition."
+  # certificateURL: "https://example.com"
+  
+- name: PyTorch for Deep Learning and Computer Vision
+  timeline: "Jul 2021"
+  organization:
+    name: Udemy
+    url: https://www.udemy.com/
+  courseOverview: "This course provides a simple introduction to machine learning with PyTorch."
+  certificateURL: "https://www.udemy.com/certificate/UC-c1c93e92-55c1-42c0-bcae-8ab3a2558bf8/"
+
+- name: Rest API (Intermediate) Certificate
+  timeline: "Jul 2021"
+  organization:
+    name: Hackerrank
+    url: https://www.hackerrank.com/
+  certificateURL: "https://www.hackerrank.com/certificates/ddd2cbb52c36"
+
+- name: SQL (Intermediate) Certificate
+  timeline: "Jun 2021"
+  organization:
+    name: Hackerrank
+    url: https://www.hackerrank.com/
+  certificateURL: "https://www.hackerrank.com/certificates/01ee6c67bebd"

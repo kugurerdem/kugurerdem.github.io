@@ -1,0 +1,56 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Software Developer
+# your company information
+# company:
+  # name: Example Co.
+  # url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Currently a Mathematics B.Sc at Bilkent University. I am also a software developer who is interested in various topics such as blockchain development, machine learning etc. In general I like automating stuff including financial strategies.'
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/kugurerdem"
+ 
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/u%C4%9Fur-erdem-seyfi-477115206/"
+  
+- name: Wordpress
+  icon: "fab fa-wordpress"
+  url: "https://ugurnotes.wordpress.com/"
+
+- name: Goodreads
+  icon: "fab fa-goodreads-g"
+  url: "https://www.goodreads.com/user/show/71408321-u-ur-erdem-seyfi"
+ 
+- name: Lichess
+  icon: "fas fa-chess"
+  url: "https://lichess.org/@/k_ugurerdem"
+  
+
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+# softSkills:
+# - name: Leadership
+  # percentage: 85
+  # color: blue
+# - name: Team Work
+  # percentage: 90
+  # color: yellow

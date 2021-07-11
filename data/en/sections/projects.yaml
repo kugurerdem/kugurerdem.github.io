@@ -1,0 +1,113 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+# buttons:
+# - name: All
+  # filter: "all"
+# - name: Professional
+  # filter: "professional"
+# - name: Academic
+  # filter: "academic"
+# - name: Hobby
+  # filter: "hobby"
+
+# your projects
+projects:
+
+- name: socket-cpp
+  role: Owner
+  timeline: "2020"
+  repo: https://github.com/kugurerdem/socket-cpp # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: A multiclient-server network infrastructure that can operate autonomously in any application.
+  tags: ["socket", "threading", "c++"]
+
+- name: Hotel Database
+  role: Contributor
+  timeline: "2020"
+  repo: https://github.com/kugurerdem/hotel_db # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: A project for Database Management course. I've worked around all parts of the project.
+  tags: ["team","nodejs", "sql"]
+
+- name: uPortfolio
+  role: Owner
+  timeline: "2020"
+  repo: https://github.com/kugurerdem/uportfolio # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: uPortfolio is a basic pie chart application. It is used for seeing one's portfolio in a more visual way.
+  tags: ["hobby","html5"]
+
+- name: Zetz
+  role: Contributor
+  timeline: "2020"
+  repo: https://github.com/kugurerdem/Zetz # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Using Lex and Yacc, I was responsible for both building a lexer and the parser for our theoretical programming language.
+  tags: ["lex/yacc", "cfg", "regexp"]
+
+- name: FPGA Cellular Automaton
+  role: Owner
+  timeline: "2019"
+  repo: https://github.com/kugurerdem/FPGA-Cellular-Automaton # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Using SystemVerilog I have built a cellular automaton for a Basys3 FPGA.
+  tags: ["fpga", "verilog"]
+
+- name: The Droneer
+  role: Contributor
+  timeline: "2019"
+  repo: https://github.com/kugurerdem/Droneer # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: RoboCode like game where you program your drones and see they fight each other. Built the IDE part of the game.
+  tags: ["team", "java"]
+
+
+- name: Text Machine
+  role: Owner
+  timeline: "2016"
+  repo: https://github.com/kugurerdem/text-machine # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: A "fun" machine that can apply several commands that are given to it.
+  tags: ["hobby","html5"]
+
+- name: "Physics Simulation v0"
+  #logo: /images/sections/projects/toha.png
+  role: Owner
+  timeline: "2016"
+  repo: https://github.com/kugurerdem/physics-v0
+  summary: An interactive physics simulation that considers parameters such as momentum, air friction.
+  tags: ["hobby","html5"]
+
+- name: "Conway's Game of Life"
+  #logo: /images/sections/projects/toha.png
+  role: Owner
+  timeline: "2016"
+  repo: https://github.com/kugurerdem/conway-s-game-of-life
+  summary: I've rebuilt one of the most known cellular-automatas when I was in high school.
+  tags: ["hobby","html5"]
+
+- name: "Running Game"
+  #logo: /images/sections/projects/toha.png
+  role: Owner
+  timeline: "2016"
+  repo: https://github.com/kugurerdem/Running-Game
+  summary: Simple runner game that I coded when I was in high school.
+  tags: ["hobby","html5"]
+
+- name: "HTML5: Canvas Experiments"
+  #logo: /images/sections/projects/toha.png
+  role: Owner
+  timeline: "2015"
+  repo: https://github.com/kugurerdem/canvas-js-experiments
+  summary: HTML Canvas experiments that I have done when I was in high school. 
+  tags: ["hobby","html5"]
+  
