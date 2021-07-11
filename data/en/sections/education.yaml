@@ -36,9 +36,6 @@ degrees:
     - name: CS 201, Fundamental Structures of Computer Science I (3 Credits)
       achieved: 3.7
       outOf: 4
-    - name: CS 201, Fundamental Structures of Computer Science I (3 Credits)
-      achieved: 3.7
-      outOf: 4
     - name: CS 202, Fundamental Structures of Computer Science II (3 Credits)
       achieved: 4
       outOf: 4
