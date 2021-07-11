@@ -14,8 +14,8 @@ degrees:
   icon: fa-graduation-cap
   timeframe: 2018-2022
   institution:
-    name: İhsan Doğramacı Bilkent Üniversitesi
-    url: "#"
+    name: İhsan Doğramacı Bilkent University
+    url: "https://w3.bilkent.edu.tr/bilkent/"
   grade: #(optional)
     scale: CGPA
     achieved: 2.93
